@@ -3,7 +3,7 @@ test task for Int20h hackathon
 data_soScientists - Illia Ovcharenko, Anton Babenko, Alexey Kuzmenko
 
 ## Data and task descriptions
-
+https://www.kaggle.com/c/imaterialist-fashion-2019-FGVC6/overview
 Kaggle training dataset was randomly splited into train/test/val parts.
 All information about attributes was dropped.
 Metric - mAP 
